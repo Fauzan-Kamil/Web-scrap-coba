@@ -1,0 +1,29 @@
+Web Scraping
+________________________
+pip install opencv-python
+pip install requests
+pip install imutils
+pip install git
+_________________________
+Untuk downloadnya 
+1. Buat file baru dengan mkdir
+2. lalu clone, git clone web-sraping nya di github (https://github.com/Fauzan-Kamil/Web-scrap-coba.git)
+3. setelah di clone, masukan code js nya ke console web dengan (inspect lalu cari console)
+4. nanti akan muncul urls nya, lalu copy dan pastekan ke file yg sudah di buat tadi
+5. lalu tinggal masukan perintah (python image-downloader2.py -u urls.txt -o nama_file)
+6. tunggu hingga selesai
+____________________________
+============================
+____________________________
+
+Labeling image 
+--------------
+pip install git
+conda install pyqt=5
+conda install -c anaconda lxml
+-----------------------------
+Untuk langkah nya
+1. buat file baru dengan mkdir
+2. lalu git clone https://github.com/tzutalin/labelImg.git ke file yg dibuat
+3. pyrcc5 -o libs/resources.py resources.qrc
+4. python labelImg.py
