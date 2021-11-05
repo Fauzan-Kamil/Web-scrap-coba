@@ -1,4 +1,4 @@
-# scraping-gambar-google
+# scraping-gambar
 
 pip install opencv-python
 
