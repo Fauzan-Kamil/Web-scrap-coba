@@ -27,3 +27,5 @@ Untuk langkah nya
 2. lalu git clone https://github.com/tzutalin/labelImg.git ke file yg dibuat
 3. pyrcc5 -o libs/resources.py resources.qrc
 4. python labelImg.py
+
+--
